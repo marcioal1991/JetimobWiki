@@ -1,5 +1,5 @@
 <!-- TITLE: Marketing -->
-<!-- SUBTITLE: A quick summary of Marketing -->
+<!-- SUBTITLE: Documento, colaborativo e evolutivo, com procedimentos e ferramentas para pessoas envolvidas com o marketing do Jetimob -->
 
 # Playbook de marketing
 ## Certificações obrigatórias
