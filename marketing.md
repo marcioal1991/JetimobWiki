@@ -65,5 +65,7 @@ Automação de marketing.
 * SEM Rush
 Monitora competitividade na web. Linkbuilding, SEO OnPage, Keywords...
 
-* SEM Rush
+* Word
 Monitora competitividade na web. Linkbuilding, SEO OnPage, Keywords...
+
+http://wiki.jetimob.com/marketing/ferramentas
