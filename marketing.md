@@ -42,22 +42,17 @@ https://www.youtube.com/watch?v=n5EVug3zoI0
 * Mozbar
 Análise de PA e DA.
 
-
 * ColorPicker
 Ajuda a saber a cor em uma página.
-
 
 * SEO Quake
 Auditoria rápida de SEO em uma página específica.
 
-
 * WindowResizer
 Reajusta o tamanho da página. Bom para simular diferentes resoluções.
 
-
 * Screencastify
 Gravar vídeos tutoriais.
-
 
 * Nimbus
 Printscreens.
@@ -67,10 +62,8 @@ Printscreens.
 * ActiveCampaign
 Automação de marketing.
 
-
 * SEM Rush
 Monitora competitividade na web. Linkbuilding, SEO OnPage, Keywords...
-
 
 * SEM Rush
 Monitora competitividade na web. Linkbuilding, SEO OnPage, Keywords...
