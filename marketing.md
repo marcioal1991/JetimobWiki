@@ -22,6 +22,11 @@ https://universidade.rockcontent.com/cursos/producao-de-conteudo-para-web/
 https://universidade.rockcontent.com/cursos/marketing-de-conteudo/
 
 
+**Udacity**
+* Teste A/B by Google
+https://br.udacity.com/course/ab-testing--ud257
+
+
 ## Vídeos obrigatórios
 **SemRush**
 * Pesquisa de Palavras-chave na Prática
