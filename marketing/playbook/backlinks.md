@@ -25,11 +25,16 @@ Utilizando esse email de apresentação, a cada 23 sites contatados, 8 deles res
  
 **PASSO A PASSO PARA CONSEGUIR LINKS**
 * Entrar no SemRush :fist: 
-* Analisar backlink de um concorrente ![Indicar Backlinks](/uploads/indicar-backlinks.png "Indicar Backlinks")
-* Entre em domínios de referência onde aparece o site que está linkando o concorrente apenas uma vez. ![Dominios De Referencia](/uploads/dominios-de-referencia.png "Dominios De Referencia")
-* Trabalho manual: entrar de site em site para ver do que trata e se cabe um link. ![Manual](/uploads/manual.png "Manual")
+* Analisar backlink de um concorrente
+ ![Indicar Backlinks](/uploads/indicar-backlinks.png "Indicar Backlinks")
+* Entre em domínios de referência onde aparece o site que está linkando o concorrente apenas uma vez.
+![Dominios De Referencia](/uploads/dominios-de-referencia.png "Dominios De Referencia")
+* Trabalho manual: entrar de site em site para ver do que trata e se cabe um link. 
+![Manual](/uploads/manual.png "Manual")
 * Escolha sites com assuntos parecidos com o seu, com alta relevância e alta autoridade de domínio. :grey_exclamation:
-* Utilize a extensão MozBar para verificar autoridade de domínio :star2:
+* Utilize a extensão MozBar para verificar autoridade de domínio
+![Moz](/uploads/moz.png "Moz")
 * Analisado e aprovado como um bom parceiro para backlink, analise se é bom pedir um guest post, um backlink e um guest post, ou somente um backlink. :thumbsup:
-* Contate o site por e-mail com o modelo de apresentação. :bride_with_veil:
+* Contate o site por e-mail com o modelo de apresentação. 
+![Moz](/uploads/moz.png "Moz")
 * Combine os termos da parceria e envie o conteúdo combinado para o parceiro. :open_hands:
