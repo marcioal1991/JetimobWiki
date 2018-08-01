@@ -78,5 +78,7 @@ Clique na engrenagem e
 
 ![Linkagem 2](/uploads/linkagem-2.png "Linkagem 2")
 
-> Se for um link externo, siga os mesmos passos: verifique se o conteúdo é bom, copie a URL e crie a linkagem no post. No entanto, ao abrir a engrenagem, selecione também a opção sobre "No follow", para avisar os mecanismos de busca que não é pra seguir esse link na hora do rankeamento. 
+> Se for um link externo, siga os mesmos passos: verifique se o conteúdo é bom, copie a URL e crie a linkagem no post. No entanto, ao abrir a engrenagem, selecione também a opção sobre "no follow", para avisar os mecanismos de busca que não é pra seguir esse link na hora do rankeamento. 
+
+
 
