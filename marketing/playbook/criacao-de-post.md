@@ -1,4 +1,4 @@
-<!-- TITLE: Criação de Post -->
+![Slug](/uploads/slug.png "Slug")<!-- TITLE: Criação de Post -->
 <!-- SUBTITLE: Um passo a passo para estruturar um post no nosso blog -->
 
 Linkagem interna e externa
@@ -83,3 +83,5 @@ Clique na engrenagem e
 Depois de fazer a linkagem e otimizar o texto, é hora de definir a super tríade SEO: slug, metadescription e SEO title!
 
 ![Seo](/uploads/seo.png "Seo")
+
+![Slug](/uploads/slug.png "Slug")
