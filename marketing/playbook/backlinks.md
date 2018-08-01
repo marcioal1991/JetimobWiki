@@ -1,7 +1,7 @@
 <!-- TITLE: Backlinks -->
 <!-- SUBTITLE: A quick summary of Backlinks -->
 
-# Header
+# Backlink
    As técnicas de SEO (Search Engine Optimization) servem para otimizar os sites para os mecanismos de busca. O principal objetivo dos sites é (ou deveria ser) aparecer na primeira página do Google e, de preferência, em 1º lugar no ranking. Isso porque, assim, os sites ganham mais tráfego orgânico à medida que tem um melhor rankeamento no Google.
 Por isso, é imprescindível aplicar as técnicas de SEO nos sites para alcançar um bom posicionamento. Uma dessas técnicas são os backlinks. Os links são muito importantes para gerar mais visualizações no seu site, pois quanto mais o seu site for linkado por outros sites, mais conhecido ele se tornará e, com isso, ganhará mais autoridade.
 Diferente de antigamente quando a quantidade de links era o mais importante, hoje em dia os links devem ser escolhidos de modo que tragam visitantes de qualidade para o site, ou seja, o público-alvo dos sites devem ser parecidos. Isso significa que o assunto abordado pelos sites devem agradar os dois públicos. 
@@ -25,9 +25,9 @@ Utilizando esse email de apresentação, a cada 23 sites contatados, 8 deles res
  
  
 **PASSO A PASSO PARA CONSEGUIR LINKS**
-* Entrar no SemRush :fist:
-* Analisar backlink de um concorrente :innocent:
-* Entre em domínios de referência onde aparece o site que está linkando o concorrente apenas uma vez. :smiling_imp:
+* Entrar no SemRush :fist: 
+* Analisar backlink de um concorrente :innocent: 
+* Entre em domínios de referência onde aparece o site que está linkando o concorrente apenas uma vez. :smiling_imp: ![Dominios De Referencia](/uploads/dominios-de-referencia.png "Dominios De Referencia")
 * Trabalho manual: entrar de site em site para ver do que trata e se cabe um link. :alien: 
 * Escolha sites com assuntos parecidos com o seu, com alta relevância e alta autoridade de domínio. :grey_exclamation:
 * Utilize a extensão MozBar para verificar autoridade de domínio :star2:
