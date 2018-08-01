@@ -26,7 +26,8 @@ Utilizando esse email de apresentação, a cada 23 sites contatados, 8 deles res
  
 **PASSO A PASSO PARA CONSEGUIR LINKS**
 * Entrar no SemRush :fist: 
-* Analisar backlink de um concorrente :innocent: ![Indicar Backlinks](/uploads/indicar-backlinks.png "Indicar Backlinks")![Dominios De Referencia](/uploads/dominios-de-referencia.png "Dominios De Referencia")
+* Analisar backlink de um concorrente :innocent: ![Indicar Backlinks](/uploads/indicar-backlinks.png "Indicar Backlinks")
+* ![Dominios De Referencia](/uploads/dominios-de-referencia.png "Dominios De Referencia")
 * Entre em domínios de referência onde aparece o site que está linkando o concorrente apenas uma vez. :smiling_imp: ![Dominios De Referencia](/uploads/dominios-de-referencia.png "Dominios De Referencia")
 * Trabalho manual: entrar de site em site para ver do que trata e se cabe um link. :alien: ![Manual](/uploads/manual.png "Manual")
 * Escolha sites com assuntos parecidos com o seu, com alta relevância e alta autoridade de domínio. :grey_exclamation:
