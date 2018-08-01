@@ -61,7 +61,12 @@ Se o texto foi feito no docs, ele deve ser colado no post do wordpress sem forma
 
 ![Screenshot Www Jetimob Com 2018 08 01 16 23 11](/uploads/screenshot-www-jetimob-com-2018-08-01-16-23-11.png "Screenshot Www Jetimob Com 2018 08 01 16 23 11")
 
-Após formatar o texto no wordpress, leia-o novamente de forma atenta a fim de buscar palavras que possam gerar linkagem interna para outros posts do blog. Por exemplo:
+Após formatar o texto no wordpress, leia-o novamente de forma atenta a fim de buscar palavras que possam gerar linkagem interna para outros posts do blog. Nesse exemplo achamos uma oportunidade em "funil de vendas". Pesquise a palavra no "search" do blog e veja se temos algum post relacionado. 
+- Abra o post
+- Copie a URL
+- Volte para o WordPress
+- Selecione o texto que deseja linkar
+- Clique na "correntezinha" na barra superior (essa que está dentro do quadrado vermelho)
 
 ![Linkagem](/uploads/linkagem.png "Linkagem")
 
