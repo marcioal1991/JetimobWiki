@@ -1,4 +1,4 @@
 <!-- TITLE: Criação de Post -->
-<!-- SUBTITLE: A quick summary of Criacao De Post -->
+<!-- SUBTITLE: Um passo a passo para estruturar um post no nosso blog -->
 
 # Header
