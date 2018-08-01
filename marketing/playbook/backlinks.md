@@ -20,15 +20,14 @@ O motivo do meu contato é simples: eu adoraria ter um artigo seu no meu blog! A
 Vocês estão abertos a parcerias de Guest Post ou para backlinks? Seria um prazer ter um conteúdo de vocês no nosso blog e poder linkar vocês para os nossos leitores.
 Tenho certeza que manteremos o nível de suas postagens, oferecendo artigos com informações úteis e de qualidade ao seu público, sendo totalmente originais e otimizados para trazer bons links para você. Aguardo resposta e estou à disposição para dar mais detalhes ou discutir os termos desta parceria.    
 Obrigado pela atenção.’’
- ![Dominios De Referencia](/uploads/dominios-de-referencia.png "Dominios De Referencia")
+
 Utilizando esse email de apresentação, a cada 23 sites contatados, 8 deles responderam. 
  
- ![Indicar Backlinks](/uploads/indicar-backlinks.png "Indicar Backlinks")
 **PASSO A PASSO PARA CONSEGUIR LINKS**
 * Entrar no SemRush :fist: 
-* Analisar backlink de um concorrente :innocent: 
-* Entre em domínios de referência onde aparece o site que está linkando o concorrente apenas uma vez. :smiling_imp:
-* Trabalho manual: entrar de site em site para ver do que trata e se cabe um link. :alien: 
+* Analisar backlink de um concorrente ![Indicar Backlinks](/uploads/indicar-backlinks.png "Indicar Backlinks")
+* Entre em domínios de referência onde aparece o site que está linkando o concorrente apenas uma vez. ![Dominios De Referencia](/uploads/dominios-de-referencia.png "Dominios De Referencia")
+* Trabalho manual: entrar de site em site para ver do que trata e se cabe um link. ![Manual](/uploads/manual.png "Manual")
 * Escolha sites com assuntos parecidos com o seu, com alta relevância e alta autoridade de domínio. :grey_exclamation:
 * Utilize a extensão MozBar para verificar autoridade de domínio :star2:
 * Analisado e aprovado como um bom parceiro para backlink, analise se é bom pedir um guest post, um backlink e um guest post, ou somente um backlink. :thumbsup:
