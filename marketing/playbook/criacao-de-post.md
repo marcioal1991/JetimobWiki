@@ -61,7 +61,7 @@ Se o texto foi feito no docs, ele deve ser colado no post do wordpress sem forma
 
 ![Screenshot Www Jetimob Com 2018 08 01 16 23 11](/uploads/screenshot-www-jetimob-com-2018-08-01-16-23-11.png "Screenshot Www Jetimob Com 2018 08 01 16 23 11")
 
-Após formatar o texto no wordpress, leia-o novamente de forma atenta a fim de buscar palavras que possam gerar linkagem interna para outros posts do blog. Nesse exemplo achamos uma oportunidade em "funil de vendas". Pesquise a palavra no "search" do blog e veja se temos algum post relacionado. Se sim,
+Após formatar o texto no wordpress, leia-o novamente de forma atenta a fim de buscar palavras que possam gerar linkagem interna para outros posts do blog. Devem ser criadas, no mínimo, 5 linkagens. Nesse exemplo achamos uma oportunidade em "funil de vendas". Pesquise a palavra no "search" do blog e veja se temos algum post relacionado. Se sim,
 - Abra o post e veja se ele é "razoável"
 - Copie a sua URL
 - Volte para o WordPress
@@ -80,5 +80,6 @@ Clique na engrenagem e
 
 > Se for um link externo, siga os mesmos passos: verifique se o conteúdo é bom, copie a URL e crie a linkagem no post. No entanto, ao abrir a engrenagem, selecione também a opção sobre "no follow", para avisar os mecanismos de busca que não é pra seguir esse link na hora do rankeamento. 
 
+Depois de fazer a linkagem e otimizar o texto, é hora de definir a super tríade SEO: slug, metadescription e SEO title!
 
-
+![Seo](/uploads/seo.png "Seo")
