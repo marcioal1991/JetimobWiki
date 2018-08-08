@@ -9,7 +9,7 @@ Palavras-chave
 Títulos (SEO, titulo personalizado, etc) ok
 Estruturação (número de palavras, parágrafos)
 Outras edições (mudar para redator jetimob, agendamento)
- Tríade SEO (slug, SEO title e título do post)
+Tríade SEO (slug, SEO title e título do post) ok
 
 Para definir a pauta através de palavras-chave, é necessário fazer uma pesquisa de relevância na plataforma SEMRush e analisar os seguintes itens:
 
@@ -57,11 +57,11 @@ Guidelines específicas para o texto
 ● Estrutura de texto:
 
 # WordPress 
-Se o texto foi feito no docs, ele deve ser colado no post do wordpress sem formatação. Para isso, selecione o texto e cole com *Ctrl + Shift + v*. A formatação deve ser feita dentro do site para manter o layout padrão utilizado no blog e para evitar que hajam links quebrados em caso de repost. Ainda dentro do wordpress utilizamos um software que avalia o desempenho do SEO no post, mostrando o que está bom e o que ainda pode ser otimizado. A partir daí você vai corrigindo o que pode ser corrigido até obter o melhor resultado possível.
+Se o texto foi feito no docs, ele deve ser colado no post do wordpress sem formatação. Para isso, selecione o texto e cole com *Ctrl + Shift + v*. A formatação deve ser feita dentro do site para manter o layout padrão utilizado no blog e para evitar que hajam links quebrados em caso de repost. Ainda dentro do wordpress utilizamos um software que avalia o desempenho do SEO no post, mostrando o que está bom e o que ainda pode ser otimizado. A partir daí você vai corrigindo o que pode ser corrigido até obter o melhor resultado possível. 
 
 ![Screenshot Www Jetimob Com 2018 08 01 16 23 11](/uploads/screenshot-www-jetimob-com-2018-08-01-16-23-11.png "Screenshot Www Jetimob Com 2018 08 01 16 23 11")
 
-Após formatar o texto no wordpress, leia-o novamente de forma atenta a fim de buscar palavras que possam gerar linkagem interna para outros posts do blog. Devem ser criadas, no mínimo, 5 linkagens. Nesse exemplo achamos uma oportunidade em "funil de vendas". Pesquise a palavra no "search" do blog e veja se temos algum post relacionado. Se sim,
+Não esqueça de definir um título para o seu post. Este, assim como todos os títulos, deve ser uma chamada bem objetiva a respeito do conteúdo do artigo. Quando possível use a palavra-chave no início pois isso ajuda no rankeamento, por exemplo: "**TED Talks**: 6 palestras...". Após formatar o texto no wordpress, leia-o novamente de forma atenta a fim de buscar palavras que possam gerar linkagem interna para outros posts do blog. Devem ser criadas, no mínimo, 5 linkagens. Nesse exemplo achamos uma oportunidade em "funil de vendas". Pesquise a palavra no "search" do blog e veja se temos algum post relacionado. Se sim,
 - Abra o post e veja se ele é "razoável"
 - Copie a sua URL
 - Volte para o WordPress
@@ -86,3 +86,4 @@ Depois de fazer a linkagem e otimizar o texto, é hora de definir a super tríad
 
 ![Slug](/uploads/slug.png "Slug")
 
+O título do post e o título SEO devem ser diferentes!
