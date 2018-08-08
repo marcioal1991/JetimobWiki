@@ -1,12 +1,12 @@
-![Slug](/uploads/slug.png "Slug")<!-- TITLE: Criação de Post -->
+<!-- TITLE: Criação de Post -->
 <!-- SUBTITLE: Um passo a passo para estruturar um post no nosso blog -->
 
-Linkagem interna e externa
+Linkagem interna e externa ok
 Tags
 Imagens
 Categoria
 Palavras-chave
-Títulos (SEO, titulo personalizado, etc)
+Títulos (SEO, titulo personalizado, etc) ok
 Estruturação (número de palavras, parágrafos)
 Outras edições (mudar para redator jetimob, agendamento)
  Tríade SEO (slug, SEO title e título do post)
@@ -85,3 +85,4 @@ Depois de fazer a linkagem e otimizar o texto, é hora de definir a super tríad
 ![Seo](/uploads/seo.png "Seo")
 
 ![Slug](/uploads/slug.png "Slug")
+
